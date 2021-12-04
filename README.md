@@ -8,6 +8,8 @@ For the image encoder, we use [VIT](https://huggingface.co/models?filter=vit), m
 
 Most of the CLIP script is based on [HybridCLIP](https://github.com/huggingface/transformers/tree/master/examples/research_projects/jax-projects/hybrid_clip) and [clip-italian](https://arxiv.org/abs/2108.08688).
 
+Still a work in progress so may not give the best result (yet) :)
+
 # Dataset
 
 More details about the dataset used can be found [here](/data).
