@@ -10,6 +10,8 @@ Most of the CLIP script is based on [HybridCLIP](https://github.com/huggingface/
 
 Still a work in progress so may not give the best result (yet) :)
 
+clip-indonesian was presented in PyCon ID 2021. You can view the slide deck [here](https://bit.ly/pycon-clip-indonesian).
+
 # Dataset
 
 More details about the dataset used can be found [here](/data).
